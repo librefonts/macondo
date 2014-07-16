@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-75"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="uni00AD"/>
+      <psName name="hbar"/>
+      <psName name="Itilde"/>
+      <psName name="itilde"/>
+      <psName name="IJ"/>
+      <psName name="ij"/>
+      <psName name="Jcircumflex"/>
+      <psName name="jcircumflex"/>
+      <psName name="kcommaaccent"/>
+      <psName name="kgreenlandic"/>
+      <psName name="Ldotaccent"/>
+      <psName name="ldot"/>
+      <psName name="Nacute"/>
+      <psName name="nacute"/>
+      <psName name="Racute"/>
+      <psName name="Rcommaaccent"/>
+      <psName name="rcommaaccent"/>
+      <psName name="Rcaron"/>
+      <psName name="rcaron"/>
+      <psName name="dotaccentcmb"/>
+      <psName name="Euro"/>
+      <psName name="CR"/>
+      <psName name="A.swash"/>
+      <psName name="E.swash"/>
+      <psName name="B.swash"/>
+      <psName name="D.swash"/>
+      <psName name="P.swash"/>
+      <psName name="R.swash"/>
+      <psName name="S.swash"/>
+      <psName name="Q.swash"/>
+      <psName name="O.swash"/>
+      <psName name="G.swash"/>
+      <psName name="H.swash"/>
+      <psName name="I.swash"/>
+      <psName name="J.swash"/>
+      <psName name="K.swash"/>
+      <psName name="L.swash"/>
+      <psName name="M.swash"/>
+      <psName name="N.swash"/>
+      <psName name="T.swash"/>
+      <psName name="V.swash"/>
+      <psName name="W.swash"/>
+      <psName name="C.swash"/>
+      <psName name="F.swash"/>
+      <psName name="U.swash"/>
+      <psName name="X.swash"/>
+      <psName name="Y.swash"/>
+      <psName name="Z.swash"/>
+      <psName name="commaaccent"/>
+      <psName name="OE.swash"/>
+      <psName name="Ograve.swash"/>
+      <psName name="Oacute.swash"/>
+      <psName name="Ocircumflex.swash"/>
+      <psName name="Otilde.swash"/>
+      <psName name="Odieresis.swash"/>
+      <psName name="Egrave.swash"/>
+      <psName name="Eacute.swash"/>
+      <psName name="Ecircumflex.swash"/>
+      <psName name="Edieresis.swash"/>
+      <psName name="Nacute.swash"/>
+      <psName name="Ntilde.swash"/>
+      <psName name="Ugrave.swash"/>
+      <psName name="Uacute.swash"/>
+      <psName name="Ucircumflex.swash"/>
+      <psName name="Udieresis.swash"/>
+      <psName name="Igrave.swash"/>
+      <psName name="Iacute.swash"/>
+      <psName name="Itilde.swash"/>
+      <psName name="Icircumflex.swash"/>
+      <psName name="Idieresis.swash"/>
+      <psName name="AE.swash"/>
+      <psName name="Agrave.swash"/>
+      <psName name="Aacute.swash"/>
+      <psName name="Acircumflex.swash"/>
+      <psName name="Atilde.swash"/>
+      <psName name="Adieresis.swash"/>
+      <psName name="Aring.swash"/>
+      <psName name="Ccedilla.swash"/>
+      <psName name="Oslash.swash"/>
+      <psName name="Yacute.swash"/>
+      <psName name="Ydieresis.swash"/>
+      <psName name="IJ.swash"/>
+      <psName name="Lslash.swash"/>
+      <psName name="Ldotaccent.swash"/>
+      <psName name="Scaron.swash"/>
+      <psName name="Zcaron.swash"/>
+    </extraNames>
+  </post>
+
+</ttFont>
